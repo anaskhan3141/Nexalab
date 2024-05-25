@@ -1,0 +1,202 @@
+@font-face {
+    font-family: ProductSans;
+    src: url(../../assets/fonts/ProductSansBold.ttf);
+}
+
+
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(../../assets/fonts/ProductSansRegular.ttf);
+}
+
+
+
+
+
+
+@media (max-width: 499px) {
+    
+
+
+#contact-hero-layout {
+    width: 100% !important;
+    height: 632.25px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: space-evenly;
+    background-color: #61C2D0 !important;
+
+}
+
+
+
+
+
+
+
+
+
+#contact-hero-left-container {
+
+    height: 50%;
+    width: 100%;
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+
+
+
+
+
+
+
+.hero-contact-link-white {
+
+    color: white !important;
+}
+
+
+
+
+
+
+
+
+
+#hero-contact-link-dash {
+    color: white !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+
+
+
+
+
+
+
+
+#contact-hero-right-container {
+    height: 50%;
+    width: 100%;
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+}
+
+
+
+
+
+
+
+
+
+#contact-hero-img {
+    width: 350px !important;
+    height: 225px !important;
+}
+
+
+
+
+
+
+
+#hero-contact-link-container {
+
+  display: none !important;
+
+
+}
+
+
+
+
+
+
+.hero-contact-link-blue {
+
+    color: #0D1625 !important;
+}
+
+
+
+
+
+
+
+#contact-hero-title {
+
+    color: white !important;
+    font-family: ProductSans, sans-serif !important;
+    font-size: 55px !important;
+}
+
+
+
+
+
+#contact-hero-button {
+
+    color: #0D1625 !important;
+
+    border-color: #0D1625 !important;
+    background: transparent !important;
+    border-radius: 20px !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+    text-align: center !important;
+}
+
+
+
+}
+
+
+
+
+
+
+
+@media (max-width: 280px) {
+
+
+
+
+    #contact-hero-img {
+        width: 250px !important;
+        height: 180px !important;
+    }
+
+
+
+
+    #contact-hero-title {
+
+        color: white !important;
+        font-family: ProductSans, sans-serif !important;
+        font-size: 46px !important;
+        text-align: center !important;
+    }
+
+
+
+    #contact-hero-button {
+
+        padding-left: 25.5px !important;
+        padding-right: 25.5px !important;
+    }
+    
+
+}

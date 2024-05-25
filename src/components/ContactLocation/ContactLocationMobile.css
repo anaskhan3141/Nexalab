@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+
+@font-face {
+    font-family: ProductSans;
+    src: url(../../assets/fonts/ProductSansBold.ttf);
+}
+
+
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(../../assets/fonts/ProductSansRegular.ttf);
+}
+
+
+
+
+
+
+
+
+@media (max-width: 499px) {
+    
+
+
+
+#contact-location-layout {
+    width: 100% !important;
+    height: 650px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background-color: #FFFFFF !important;
+}
+
+
+
+
+
+
+
+#contact-location-heading {
+
+    font-family: ProductSans, sans-serif  !important;
+    color: #61C2D0 !important;
+    margin-bottom: 5.5px !important ;
+    font-size: 25px !important;
+}
+
+
+
+
+
+
+
+#contact-location-slogan {
+
+margin-top: 0px !important;
+font-family: 'Montserrat', sans-serif !important;
+font-size: 25px !important;
+}
+
+
+
+
+
+
+
+#contact-location-text {
+
+    font-family: ProductSansRegular, sans-serif !important;
+    font-weight: 500 !important;
+    margin-top: 20px !important;
+    font-size: 17px !important;
+}
+
+
+
+
+
+
+
+#contact-location-content-container {
+
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: space-evenly !important;
+    margin-top: 30px !important;
+    height: 80% !important;
+    width: 90% !important;
+}
+
+
+
+
+
+
+
+
+#contact-location-content-email-img {
+
+    width: 55px !important;
+    height: 55px !important;
+}
+
+
+
+
+
+
+
+#contact-location-container {
+
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    width: fit-content !important;
+}
+
+
+
+
+
+
+
+#email-contact {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    margin-left: 20px !important;
+}
+
+
+
+
+
+#email {
+
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    font-family: ProductSansRegular , sans-serif !important;
+}
+
+}
+
+
+
+@media (max-width: 280px) {
+
+
+
+
+    #contact-location-slogan {
+
+        font-size: 20px !important;
+    }
+
+
+
+
+
+
+
+    #contact-location-heading {
+
+    font-size: 20px !important;
+    }
+
+
+
+
+
+    #contact-location-text {
+    
+        font-size: 14.5px !important;
+    }
+}

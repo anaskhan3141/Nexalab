@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+
+
+@font-face {
+    font-family: ProductSans;
+    src: url(../../assets/fonts/ProductSansBold.ttf);
+}
+
+
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(../../assets/fonts/ProductSansRegular.ttf);
+}
+
+
+
+
+
+
+.about-us-third-section-layout {
+    background-color :#61C2D0;
+    color: #ffff;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: ProductSans, sans-serif !important;
+}
+.para {
+    width: 270px;
+     font-size: 16px;
+     word-spacing: 2px;
+     font-family: ProductSansRegular, sans-serif !important;
+}
+
+
+

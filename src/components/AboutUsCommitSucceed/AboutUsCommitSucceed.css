@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(../../assets/fonts/ProductSansRegular.ttf);
+}
+
+
+
+@font-face {
+    font-family: ProductSans;
+    src: url(../../assets/fonts/ProductSansBold.ttf);
+}
+
+
+
+
+
+
+
+@media (min-width: 1001px) {
+    
+
+
+#about-us-commit-succeed-layout {
+    width: 100% !important;
+    height: fit-content !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-evenly !important;
+    background-color: #FFFFFF !important;
+}
+
+
+
+
+
+
+
+#about-us-commit-succeed-main-container {
+
+    width: 100% !important;
+    height: fit-content !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-evenly !important;
+    background-color: #FFFFFF !important;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+
+
+
+
+#commit-succeed-left-para-container {
+    width: 30% !important;
+    height: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+
+
+
+}
+
+
+
+
+
+#commit-succeed-middle-para-container {
+    width: 30% !important;
+    height: 100% !important;
+}
+
+
+
+
+
+
+
+
+
+#commit-succeed-right-para-container {
+    width: 30% !important;
+    height: 100% !important;
+}
+
+
+
+
+
+
+
+
+#commit-succeed-heading {
+
+    color: #61C2D0 !important;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+
+
+
+.paragraph {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    column-count: 2;  /* number of columns */
+    column-gap: 20px; /* gap between columns */
+}
+
+
+
+
+
+.paragraph p {
+ 
+    text-align: start !important;
+    line-height: 21.5px !important;
+    font-family: ProductSansRegular, sans-serif !important;
+    word-spacing: 4.25px !important;
+    font-size: 14px !important;
+
+}
+
+
+
+
+
+
+#about-us-commit-succeed-img {
+
+    width: 100% !important;
+    height: 215px !important;
+    margin-bottom: 15px !important;
+}
+
+}

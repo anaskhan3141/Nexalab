@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(../../assets/fonts/ProductSansRegular.ttf);
+}
+
+
+
+@font-face {
+    font-family: ProductSans;
+    src: url(../../assets/fonts/ProductSansBold.ttf);
+}
+
+
+
+
+
+
+@media screen and (min-width: 500px) and (max-width: 1000px) {
+    
+
+
+
+#about-us-commit-succeed-layout {
+    width: 100% !important;
+    height: fit-content !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background-color: #FFFFFF !important;
+}
+
+
+
+
+
+#commit-succeed-left-para-container {
+    width: 100% !important;
+    height: 450px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+
+
+
+}
+
+
+
+
+
+#commit-succeed-middle-para-container {
+    width: 100% !important;
+    height: 335px !important;
+}
+
+
+
+
+
+
+
+
+
+#commit-succeed-right-para-container {
+    width: 100% !important;
+    height: 550px !important;
+}
+
+
+
+
+
+
+
+
+#commit-succeed-heading {
+
+    color: #61C2D0 !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px !important;
+
+}
+
+
+
+
+
+
+.paragraph {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    column-count: 2;  /* number of columns */
+    column-gap: 20px; /* gap between columns */
+}
+
+
+
+
+
+.paragraph p {
+ 
+    text-align: start !important;
+    line-height: 21.5px !important;
+    font-family: ProductSansRegular, sans-serif !important;
+    word-spacing: 4.25px !important;
+    font-size: 16px !important;
+
+}
+
+
+
+
+
+
+#about-us-commit-succeed-img {
+
+    width: 72.25% !important;
+    height: 270px !important;
+    margin-bottom: 15px !important;
+}
+
+
+}

@@ -1,0 +1,220 @@
+@font-face {
+    font-family: ProductSans;
+    src: url(../../assets/fonts/ProductSansBold.ttf);
+}
+
+
+
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(../../assets/fonts/ProductSansRegular.ttf);
+}
+
+
+
+
+
+.hero-main{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    position: relative;
+}
+
+#hero-img{
+    height: 600px;
+    width: 100%;
+}
+
+.text-on-image{
+    top: 60%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    height: 70%;
+    position: absolute;
+    border-radius: 0% 500px 500px 0%;
+    left: 0;
+    background-color: #0D1625;
+    font-family: ProductSans, sans-serif;
+    opacity: 80%;
+    padding-left: 100px;
+}
+
+
+
+#welcome-id{
+    color: white;
+    font-size: 2.5rem;
+    margin: 0;
+    background-color: transparent;
+}
+
+
+
+#nexalab{
+    margin: 0;
+    background-color: transparent;
+    color: #61C2D0;
+    font-size: 5rem;
+}
+
+
+
+#slogan-id{
+    background-color: transparent;
+    color: white;
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+
+@media (max-width: 499px){
+
+    .hero-main{
+
+        height: 400px !important;
+    }
+
+    #hero-img{
+        height: 400px;
+        width: 100%;
+    }
+    .text-on-image{
+        top: 40%;
+        width: 90%;
+        height: 40%;
+        padding-left: 17.5px;
+    }
+    #welcome-id{
+        font-size: 20px;
+    }
+    #nexalab{
+        font-size: 40px;
+    }
+    #slogan-id{
+        text-align: left;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 300px){
+    #hero-img{
+        height: 400px;
+        width: 100%;
+    }
+    .text-on-image{
+        width: 98%;
+        height: 35%;
+        padding-left: 10px;
+    }
+    #welcome-id{
+        font-size: 20px;
+    }
+    #nexalab{
+        font-size: 38px;
+    }
+    #slogan-id{
+        text-align: left;
+        font-size: 11px;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 920px ){
+    #hero-img{
+        height: 400px;
+        width: 100%;
+    }
+    .text-on-image{
+        top: 40%;
+        width: 60%;
+        height: 50%;
+        padding-left: 25px;
+    }
+    #welcome-id{
+        font-size: 30px;
+    }
+    #nexalab{
+        font-size: 55px;
+    }
+    #slogan-id{
+        text-align: left;
+        font-size: 18px;
+    }
+}
+
+@media screen and (width: 540px) and (height: 720px) {
+    #hero-img{
+        height: 400px;
+        width: 100%;
+    }
+    .text-on-image{
+        width: 70%;
+        height: 45%;
+        padding-left: 15px;
+    }
+    #welcome-id{
+        font-size: 22px;
+    }
+    #nexalab{
+        font-size: 40px;
+    }
+    #slogan-id{
+        text-align: left;
+        font-size: 14px;
+    }
+}
+
+@media screen and  (min-width: 921px) and (max-width: 1199px ){
+    #hero-img{
+        height: 500px;
+        width: 100%;
+    }
+    .text-on-image{
+        top: 40%;
+        width: 50%;
+        height: 50%;
+        padding-left: 40px;
+    }
+    #welcome-id{
+        font-size: 30px;
+    }
+    #nexalab{
+        font-size: 55px;
+    }
+    #slogan-id{
+        text-align: left;
+        font-size: 18px;
+    }
+}
+
+@media (width: 1280px){
+    #hero-img{
+        height: 400px;
+        width: 100%;
+    }
+    .text-on-image{
+        top: 40%;
+        width: 45%;
+        height: 50%;
+        padding-left: 50px;
+    }
+    #welcome-id{
+        font-size: 30px;
+    }
+    #nexalab{
+        font-size: 55px;
+    }
+    #slogan-id{
+        text-align: left;
+        font-size: 18px;
+    }
+}
+
+

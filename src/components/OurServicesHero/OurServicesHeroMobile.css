@@ -1,0 +1,203 @@
+@font-face {
+    font-family: ProductSans;
+    src: url(../../assets/fonts/ProductSansBold.ttf);
+}
+
+
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(../../assets/fonts/ProductSansRegular.ttf);
+}
+
+
+
+
+
+
+@media (max-width: 499px) {
+    
+
+
+#our-services-hero-layout {
+    width: 100% !important;
+    height: 632.25px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: space-evenly;
+    background-color: #61C2D0 !important;
+
+}
+
+
+
+
+
+
+
+
+
+#our-services-hero-left-container {
+
+    height: 50%;
+    width: 100%;
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+
+
+
+
+
+
+
+.hero-our-services-link-white {
+
+    color: white !important;
+}
+
+
+
+
+
+
+
+
+
+#hero-our-services-link-dash {
+    color: white !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+
+
+
+
+
+
+
+
+#our-services-hero-right-container {
+
+    height: 50%;
+    width: 100%;
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+}
+
+
+
+
+
+
+
+
+
+#our-services-hero-img {
+    width: 350px !important;
+    height: 200px !important;
+}
+
+
+
+
+
+
+
+#hero-our-services-link-container {
+
+  display: none !important;
+
+
+}
+
+
+
+
+
+
+.hero-our-services-link-blue {
+
+    color: #0D1625 !important;
+}
+
+
+
+
+
+
+
+#our-services-hero-title {
+
+    color: white !important;
+    font-family: ProductSans, sans-serif !important;
+    font-size: 55px !important;
+}
+
+
+
+
+
+#our-services-hero-button {
+
+    color: #0D1625 !important;
+
+    border-color: #0D1625 !important;
+    background: transparent !important;
+    border-radius: 20px !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+    text-align: center !important;
+}
+
+
+
+}
+
+
+
+
+
+
+
+@media (max-width: 280px) {
+
+
+
+
+    #our-services-hero-img {
+        width: 250px !important;
+        height: 150px !important;
+    }
+
+
+
+
+    #our-services-hero-title {
+
+        color: white !important;
+        font-family: ProductSans, sans-serif !important;
+        font-size: 40px !important;
+        text-align: center !important;
+    }
+
+
+
+    #our-services-hero-button {
+
+        padding-left: 25.5px !important;
+        padding-right: 25.5px !important;
+    }
+    
+
+}

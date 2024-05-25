@@ -1,0 +1,49 @@
+
+
+
+
+@media screen and (max-width: 1099px) and (min-width: 600px)  {
+
+
+    #tech-stack-card {
+
+        height: 120px ;
+        width: 120px ;
+        background: transparent !important;
+        box-shadow: 3px 3px 5px 1.5px lightgray;
+        border-radius: 11.5px !important;
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: center !important;
+        margin-left: 38px !important;
+        border: 1px solid #D9D9D9 !important;
+    }
+    
+
+}
+
+
+
+
+
+@media screen and (max-width: 600px) and (min-width: 500px)  {
+
+
+    #tech-stack-card {
+
+        height: 120px ;
+        width: 120px ;
+        background: transparent !important;
+        box-shadow: 3px 3px 5px 1.5px lightgray;
+        border-radius: 11.5px !important;
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: center !important;
+        margin-left: 5px !important;
+        border: 1px solid #D9D9D9 !important;
+    }
+    
+
+}

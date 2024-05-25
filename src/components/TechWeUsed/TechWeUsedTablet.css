@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+
+
+
+
+@media screen and (max-width: 1099px) and (min-width: 600px)  {
+
+
+
+
+    #tech-we-used-layout {
+
+        background: #0D1625 !important;
+        width: 100% !important;
+        height: 460px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: flex-start !important;
+
+    }
+
+
+
+
+
+
+    #tech-how-we-used-heading {
+
+        font-family: 'Montserrat', sans-serif !important;
+        color: #61C2D0 !important;
+        font-size: 25px !important;
+        margin-bottom: 0px !important;
+    }
+
+
+
+
+
+
+
+    #tech-we-used-heading {
+
+        color: white !important;
+        font-size: 40px !important;
+        font-family: ProductSans, sans-serif !important;
+        margin-top: 0px !important;
+    }
+
+
+
+
+
+
+    #tech-we-used-carousel-container {
+
+
+        background-color: white !important;
+        width: 90% !important;
+        height: 165px !important;
+        border-radius: 88px !important;
+        margin-top: 72.25px !important;
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: space-evenly !important;
+        padding-top: 0px !important;
+        padding-left: 110px !important;
+        padding-right: 110px !important;
+    }
+    
+
+
+
+
+
+
+
+    #tech-stack-carousel-prev-btn {
+
+        width: 45px !important;
+        height: 45px !important;
+        margin-right: 35px !important;
+        margin-bottom: 9px !important;
+        cursor: pointer !important;
+    }
+
+
+
+
+
+
+    #tech-stack-carousel-next-btn {
+
+
+        width: 45px !important;
+        height: 45px !important;
+        margin-left: 35px !important;
+        margin-bottom: 9px !important;
+        cursor: pointer !important;
+
+    }
+
+
+
+
+
+   
+    #tech-stack-carousel-prev-btn:active {
+        /* width: 43px !important;
+        height: 43px !important; */
+        opacity: 0.75 !important;
+    } 
+
+
+
+
+
+
+    #tech-stack-carousel-next-btn:active {
+
+        opacity: 0.75 !important;
+
+
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 599px) and (min-width: 500px)  {
+
+
+
+
+    #tech-we-used-layout {
+
+        background: #0D1625 !important;
+        width: 100% !important;
+        height: 460px !important;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: flex-start !important;
+
+    }
+
+
+
+
+
+
+    #tech-how-we-used-heading {
+
+        font-family: 'Montserrat', sans-serif !important;
+        color: #61C2D0 !important;
+        font-size: 25px !important;
+        margin-bottom: 0px !important;
+    }
+
+
+
+
+
+
+
+    #tech-we-used-heading {
+
+        color: white !important;
+        font-size: 40px !important;
+        font-family: ProductSans, sans-serif !important;
+        margin-top: 0px !important;
+    }
+
+
+
+
+
+
+    #tech-we-used-carousel-container {
+
+
+        background-color: white !important;
+        width: 90% !important;
+        height: 165px !important;
+        border-radius: 88px !important;
+        margin-top: 72.25px !important;
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: space-evenly !important;
+        padding-top: 0px !important;
+        padding-left: 110px !important;
+        padding-right: 110px !important;
+    }
+    
+
+
+
+
+
+
+
+    #tech-stack-carousel-prev-btn {
+
+        width: 45px !important;
+        height: 45px !important;
+        margin-right: 35px !important;
+        margin-bottom: 9px !important;
+        cursor: pointer !important;
+    }
+
+
+
+
+
+
+    #tech-stack-carousel-next-btn {
+
+
+        width: 45px !important;
+        height: 45px !important;
+        margin-left: 35px !important;
+        margin-bottom: 9px !important;
+        cursor: pointer !important;
+
+    }
+
+
+
+
+
+   
+    #tech-stack-carousel-prev-btn:active {
+        /* width: 43px !important;
+        height: 43px !important; */
+        opacity: 0.75 !important;
+    } 
+
+
+
+
+
+
+    #tech-stack-carousel-next-btn:active {
+
+        opacity: 0.75 !important;
+
+
+    }
+
+
+
+
+
+}

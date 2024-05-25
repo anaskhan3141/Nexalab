@@ -1,0 +1,177 @@
+@font-face {
+    font-family: ProductSans;
+    src: url(../../assets/fonts/ProductSansBold.ttf);
+}
+
+
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(../../assets/fonts/ProductSansRegular.ttf);
+}
+
+
+
+
+
+
+    
+
+
+#contact-hero-layout {
+    width: 100% !important;
+    height: 500px !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-evenly;
+    background-color: #61C2D0 !important;
+}
+
+
+
+
+
+
+
+
+
+#contact-hero-left-container {
+
+    height: 100%;
+    width: 45%;
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+
+
+
+
+
+
+
+.hero-contact-link-white {
+
+    color: white !important;
+}
+
+
+
+
+
+
+
+
+
+#hero-contact-link-dash {
+    color: white !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+
+
+
+
+
+
+
+
+#contact-hero-right-container {
+
+    height: 100%;
+    width: 55%;
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: center !important;
+
+}
+
+
+
+
+
+
+
+
+
+#contact-hero-img {    
+    width: 500px !important;
+    height: 300px !important;
+}
+
+
+
+
+
+
+
+#hero-contact-link-container {
+
+  display: none !important;
+
+
+}
+
+
+
+
+
+
+.hero-contact-link-blue {
+
+    color: #0D1625 !important;
+}
+
+
+
+
+
+
+
+#contact-hero-title {
+
+    color: white !important;
+    font-family: ProductSans, sans-serif !important;
+    font-size: 60px !important;
+    margin-bottom: 65px !important;
+}
+
+
+
+
+
+#contact-hero-button {
+
+    color: #0D1625 !important;
+
+    border-color: #0D1625 !important;
+    background: transparent !important;
+    border-radius: 20px !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+    text-align: center !important;
+}
+
+
+
+
+
+@media (min-width: 1900px) {
+    
+    #hero-contact-link-container {
+
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: center !important;
+        align-self: flex-start !important ;
+        margin-top: 50px !important;
+    }
+}

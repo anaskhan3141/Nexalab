@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebdbcf7b.css",
+    "main.js": "/static/js/main.01e547e8.js",
+    "static/js/787.8e19075f.chunk.js": "/static/js/787.8e19075f.chunk.js",
+    "static/media/HomePageImage.jpg": "/static/media/HomePageImage.b0eebb565ba35fd0fbcf.jpg",
+    "static/media/Services Page Picture.jpg": "/static/media/Services Page Picture.82b97fff06bb392fbc33.jpg",
+    "static/media/AboutUsCommitSucceedImage.png": "/static/media/AboutUsCommitSucceedImage.25ae1a05fe77bfa83e5e.png",
+    "static/media/Afshal.png": "/static/media/Afshal.243ff6dad7f5cb123861.png",
+    "static/media/Anas.png": "/static/media/Anas.54bdef7492c5b24a1935.png",
+    "static/media/Rafay.png": "/static/media/Rafay.0321b660cb5ade39a519.png",
+    "static/media/ProductSansBold.ttf": "/static/media/ProductSansBold.53df38d5491afbeb42a5.ttf",
+    "static/media/Aneeque.png": "/static/media/Aneeque.475156908ad6ed1b7164.png",
+    "static/media/ContactHero.png": "/static/media/ContactHero.4fbceb7b252c49cdc782.png",
+    "static/media/ProductSansRegular.ttf": "/static/media/ProductSansRegular.d165384076551a756b3c.ttf",
+    "static/media/AboutUsHeroImage.png": "/static/media/AboutUsHeroImage.abdc8667cd8e704f41da.png",
+    "static/media/OurServicesHero.png": "/static/media/OurServicesHero.331ceae49f9d19db2086.png",
+    "static/media/NexaLabNLogo.jpeg": "/static/media/NexaLabNLogo.4b621aa9ab09d8c32c2e.jpeg",
+    "static/media/NexaLabLogo.svg": "/static/media/NexaLabLogo.ff782aaf1da5d055b4a9352e6ab6b0d3.svg",
+    "index.html": "/index.html",
+    "main.ebdbcf7b.css.map": "/static/css/main.ebdbcf7b.css.map",
+    "main.01e547e8.js.map": "/static/js/main.01e547e8.js.map",
+    "787.8e19075f.chunk.js.map": "/static/js/787.8e19075f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebdbcf7b.css",
+    "static/js/main.01e547e8.js"
+  ]
+}

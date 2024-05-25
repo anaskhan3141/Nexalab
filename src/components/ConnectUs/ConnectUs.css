@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+
+
+@font-face {
+    font-family: ProductSans;
+    src: url(../../assets/fonts/ProductSansBold.ttf);
+}
+
+
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(../../assets/fonts/ProductSansRegular.ttf);
+}
+
+
+
+.body {
+    font-family: ProductSans, sans-serif !important;
+    background-color: #0D1625;
+     padding: 35px;
+     height:350px;
+     text-align: center;
+}
+.main-heading {
+    text-align: center;
+     color:   #61C2D0 ;
+     font-size: 10px;
+     padding: 5px
+}
+
+
+.column-social-icon {
+    margin-top: 30px;
+    /* text-align: center; */
+}
+
+/* @media (max-width: 390px) {
+    .social-link-anchor {
+        background-color: #61C2D0;
+        display: inline-block;
+        width: 70px;
+        line-height: 31px;
+        height: 70px;
+        text-align: center;
+         border-radius: 50%;
+       border-top-left-radius: 50%;
+       border-top-right-radius: 50%;
+       border-bottom-right-radius: 50%;
+       border-bottom-left-radius: 50%;
+       margin-right:10px;
+    }
+
+    
+} */
+.social-link-anchor {
+    background-color: #61C2D0;
+     display: inline-block;
+     width: 55px;
+     line-height: 31px;
+     height: 55px;
+     text-align: center;
+      border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    margin-right:10px;
+}
+.social-link-anchor-linkedIn {
+    background-color: #61C2D0;
+     display: inline-block;
+     width: 55px;
+     line-height: 31px;
+     height: 55px;
+     text-align: center;
+      border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    margin-left:1px;
+}
+
+.image {
+    width: 35px;
+     margin-top:10px;
+}
+
+.button-col {
+    padding: 35px;
+    text-align: center;
+}
+.button {
+    border: 1px solid #61C2D0;
+     background-color: #0D1625;
+      color: #61C2D0;
+       border-radius: 15px;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      border-bottom-right-radius: 15px;
+      border-bottom-left-radius: 15px;
+      width: 160px;
+      /* text-align: center; */
+}

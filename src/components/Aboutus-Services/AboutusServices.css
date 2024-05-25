@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+
+
+@font-face {
+    font-family: ProductSans;
+    src: url(../../assets/fonts/ProductSansBold.ttf);
+}
+
+
+
+@font-face {
+    font-family: ProductSansRegular;
+    src: url(../../assets/fonts/ProductSansRegular.ttf);
+}
+
+
+
+
+
+#about-us-services {
+
+    background-color: #FFFFFF !important;
+}
+
+.services-main{
+    padding: 80px;
+    text-align: left;
+}
+
+.services-main p {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.services-main h2{
+    font-size: 20px;
+}
+
+#starting-para{
+    margin-bottom: 30px;
+}
+
+#ending-para{
+    margin-top: 30px;
+}
+
+
+p {
+    font-family: ProductSansRegular, sans-serif !important;
+}
+
+
+h2 {
+
+    font-family: ProductSans , sans-serif !important;
+}
+
+@media (max-width: 999px) {
+    .services-main{
+        padding: 20px;
+    }
+}
